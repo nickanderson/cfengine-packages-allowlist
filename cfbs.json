@@ -4,7 +4,7 @@
   "type": "module-repo",
   "provides": {
     "packages-allowlist": {
-      "description": "This module reports on and optionally removes software installed by the platforms default package module (e.g. ~yum~,  ~apt_get~) that is not in an explicit allow list.",
+      "description": "Reports on and optionally removes software installed by the platforms default package module (e.g. ~yum~,  ~apt_get~) that is not in an explicit allow list.",
       "tags": ["management", "inventory", "security"],
       "version": "0.0.7",
       "by": "https://github.com/nickanderson",
